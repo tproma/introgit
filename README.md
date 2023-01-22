@@ -2,5 +2,9 @@
 
 ## learning Git
 
-# going great
+## going great
 dfkdfbkjb
+
+sldkfkksjhdf
+
+## Changrs by developer 2
