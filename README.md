@@ -3,8 +3,5 @@
 ## learning Git
 
 ## going great
-dfkdfbkjb
-
-sldkfkksjhdf
-
+changes in the origin
 ## Changrs by developer 2
